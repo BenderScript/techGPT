@@ -81,6 +81,14 @@ The AP Neighbors feature was released on May 11, 2020. You can find more informa
 
 ```
 
+## Baseline
+
+chatGPT 3.5-Turbo response without fine-tuning
+
+```bash
+I don't have access to real-time data or updates beyond my last knowledge update in September 2021. To find out the specific release date of the feature you mentioned on the Meraki platform, I recommend visiting the official Meraki website, checking their official documentation, or reaching out to their support or community forums for the most up-to-date information. Release dates for software features can change, and it's best to refer to the most recent and official sources for the latest information.
+```
+
 # Disclaimer
 
 It is actually hard to *force* chatGPT to go in the direction of the fine-tuned data if you have small data set.  
