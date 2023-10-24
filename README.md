@@ -83,7 +83,7 @@ The AP Neighbors feature was released on May 11, 2020. You can find more informa
 
 # Disclaimer
 
-It is actually hard to *force* to go in the direction of the fine-tuned data if you have small data set.  
+It is actually hard to *force* chatGPT to go in the direction of the fine-tuned data if you have small data set.  
 
 I had to try many times until I got a acceptable answer but when I fine-tuned the model with 500 QAs it was very easy. 
 
